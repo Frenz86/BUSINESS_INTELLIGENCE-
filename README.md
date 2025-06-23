@@ -6,7 +6,7 @@
 - Lezione 2025-06-17: Introduzione BI [slide](pdf/02BI_Dashboard.pdf) opendata [slide](pdf/open-data.pdf) esercizio excel [esercizio](pdf/02prospetto-cantina-grezzo.xlsx) intro excel [slide](pdf/Intro_excel.pdf)
 
 - Lezione 2025-06-18: Esercizio Introduzione Excel [file](pdf/riassunto_excel.xlsx) Magazzino [file](pdf/01magazzino.xlsx)
-- Lezione 2025-06-23: Introduzione SQL - database relazionali [slide](pdf/06/0_SQL_Intro.pdf) Esercizio csv pivot [file](pdf/06/netflix_titles.csv) ripasso cercaVert [file](pdf/06/Introduz-cercaVert.xlsx) esercizio cercaVert [popolazione](pdf/06/reg_prov_ita.xlsx) [province](pdf/06/comuni.xlsx)
+- Lezione 2025-06-23: Introduzione SQL - database relazionali [slide](pdf/06/0_SQL_Intro.pdf) Esercizio csv pivot [file](pdf/06/netflix_titles.csv) ripasso cercaVert [file](pdf/06/Introduz-cercaVert.xlsx) esercizio cercaVert [popolazione](pdf/06/reg_prov_ita.xlsx) [comuni](pdf/06/comuni.xlsx)
 
 
 - *per qualsiasi richiesta contattatemi direttamente al mio indirizzo personale danielegrottiuk@gmail.com [[LinkedIn]](https://www.linkedin.com/in/daniele-grotti/)
