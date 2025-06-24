@@ -8,7 +8,10 @@
 - Lezione 2025-06-18: Esercizio Introduzione Excel [file](pdf/riassunto_excel.xlsx) Magazzino [file](pdf/01magazzino.xlsx)
 - Lezione 2025-06-23: Introduzione SQL - database relazionali [slide](pdf/06/0_SQL_Intro.pdf) Esercizio csv pivot [file](pdf/06/netflix_titles.csv) ripasso cercaVert [file](pdf/06/Introduz-cercaVert.xlsx) esercizio cercaVert [popolazione](pdf/06/reg_prov_ita.xlsx) [comuni](pdf/06/comuni.xlsx)
 
-- Lezione 2025-06-24: Introduzione alla statistica [slide01](pdf/stats/01.1_Slide01.pdf) [slide02](pdf/stats/01.2_Slide02.pdf) [slide03](pdf/stats/01.3_Slide03.pdf) [slide04](pdf/stats/01.4_Slide04.pdf)  esercizio stats [es](pdf/stats/Esercizi_stats_excel.docx)
+- Lezione 2025-06-24: Introduzione alla statistica [slide01](pdf/stats/01.1_Slide01.pdf) [slide02](pdf/stats/01.2_Slide02.pdf) [slide03](pdf/stats/01.3_Slide03.pdf) [slide04](pdf/stats/01.4_Slide04.pdf)  esercizio stats [es](pdf/stats/Esercizi_stats_excel.docx)  [soluzione_es](pdf/stats/Esercizi_stats_excel_svolti.xlsx)
+
+
+
 
 
 
